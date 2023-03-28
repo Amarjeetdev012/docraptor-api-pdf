@@ -24,7 +24,7 @@ const config = {
   },
 };
 
-request.post(config, function (err, response, body) {
+request.post(config, (err, response, body) => {
   fs.writeFile('doc_raptor_sample.pdf', body, 'binary', function (writeErr) {
     console.log('Saved!');
   });
