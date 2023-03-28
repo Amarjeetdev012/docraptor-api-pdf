@@ -1,0 +1,112 @@
+ [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 27,
+    "gender": "male",
+    "email": "johndoe@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 35,
+    "gender": "female",
+    "email": "janesmith@example.com",
+    "phone": "+1-555-5678",
+    "address": {
+      "street": "456 Park Ave",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "age": 42,
+    "gender": "male",
+    "email": "bobjohnson@example.com",
+    "phone": "+1-555-9012",
+    "address": {
+      "street": "789 Elm St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 29,
+    "gender": "female",
+    "email": "emilydavis@example.com",
+    "phone": "+1-555-3456",
+    "address": {
+      "street": "321 Oak Ave",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Alex Johnson",
+    "age": 38,
+    "gender": "non-binary",
+    "email": "alexjohnson@example.com",
+    "phone": "+1-555-7890",
+    "address": {
+      "street": "654 Maple Dr",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mary Wilson",
+    "age": 31,
+    "gender": "female",
+    "email": "marywilson@example.com",
+    "phone": "+1-555-2345",
+    "address": {
+      "street": "987 Pine St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Tom Lee",
+    "age": 45,
+    "gender": "male",
+    "email": "tomlee@example.com",
+    "phone": "+1-555-6789",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Olivia Davis",
+    "age": 26,
+    "gender": "female",
+    "email": "oliviadavis@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+      "street": "789 Maple Dr",
+      "city": "Anytown"
+    }
+  }
+]
