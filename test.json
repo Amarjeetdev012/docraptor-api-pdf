@@ -1,112 +1,323 @@
- [
+[
   {
-    "id": 1,
-    "name": "John Doe",
-    "age": 27,
-    "gender": "male",
-    "email": "johndoe@example.com",
-    "phone": "+1-555-1234",
-    "address": {
-      "street": "123 Main St",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Aarav Sharma",
+    "Age": 28,
+    "Gender": "Male",
+    "Email": "aarav.sharma@gmail.com",
+    "Phone": "+91 9876543210",
+    "Address": "B-4/43, Nehru Nagar, New Delhi"
   },
   {
-    "id": 2,
-    "name": "Jane Smith",
-    "age": 35,
-    "gender": "female",
-    "email": "janesmith@example.com",
-    "phone": "+1-555-5678",
-    "address": {
-      "street": "456 Park Ave",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Isha Gupta",
+    "Age": 24,
+    "Gender": "Female",
+    "Email": "isha.gupta@hotmail.com",
+    "Phone": "+91 9988776655",
+    "Address": "106, B Block, Mayur Vihar, Delhi"
   },
   {
-    "id": 3,
-    "name": "Bob Johnson",
-    "age": 42,
-    "gender": "male",
-    "email": "bobjohnson@example.com",
-    "phone": "+1-555-9012",
-    "address": {
-      "street": "789 Elm St",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Rahul Verma",
+    "Age": 32,
+    "Gender": "Male",
+    "Email": "rahul.verma@yahoo.com",
+    "Phone": "+91 9876543211",
+    "Address": "23/7, Noida Extension, Uttar Pradesh"
   },
   {
-    "id": 4,
-    "name": "Emily Davis",
-    "age": 29,
-    "gender": "female",
-    "email": "emilydavis@example.com",
-    "phone": "+1-555-3456",
-    "address": {
-      "street": "321 Oak Ave",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Kavya Singh",
+    "Age": 27,
+    "Gender": "Female",
+    "Email": "kavya.singh@gmail.com",
+    "Phone": "+91 9876543212",
+    "Address": "24, Hauz Khas, New Delhi"
   },
   {
-    "id": 5,
-    "name": "Alex Johnson",
-    "age": 38,
-    "gender": "non-binary",
-    "email": "alexjohnson@example.com",
-    "phone": "+1-555-7890",
-    "address": {
-      "street": "654 Maple Dr",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Rohit Kumar",
+    "Age": 29,
+    "Gender": "Male",
+    "Email": "rohit.kumar@gmail.com",
+    "Phone": "+91 9876543213",
+    "Address": "C-19, Sector-63, Noida, Uttar Pradesh"
   },
   {
-    "id": 6,
-    "name": "Mary Wilson",
-    "age": 31,
-    "gender": "female",
-    "email": "marywilson@example.com",
-    "phone": "+1-555-2345",
-    "address": {
-      "street": "987 Pine St",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Neha Patel",
+    "Age": 26,
+    "Gender": "Female",
+    "Email": "neha.patel@yahoo.com",
+    "Phone": "+91 9876543214",
+    "Address": "Plot No. 31, Sector-15, Gandhinagar, Gujarat"
   },
   {
-    "id": 7,
-    "name": "Tom Lee",
-    "age": 45,
-    "gender": "male",
-    "email": "tomlee@example.com",
-    "phone": "+1-555-6789",
-    "address": {
-      "street": "456 Oak Ave",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    }
+    "Name": "Amit Singh",
+    "Age": 35,
+    "Gender": "Male",
+    "Email": "amit.singh@hotmail.com",
+    "Phone": "+91 9876543215",
+    "Address": "C-6, Green Park Extension, New Delhi"
   },
   {
-    "id": 8,
-    "name": "Olivia Davis",
-    "age": 26,
-    "gender": "female",
-    "email": "oliviadavis@example.com",
-    "phone": "+1-555-1234",
-    "address": {
-      "street": "789 Maple Dr",
-      "city": "Anytown"
-    }
+    "Name": "Priya Gupta",
+    "Age": 23,
+    "Gender": "Female",
+    "Email": "priya.gupta@gmail.com",
+    "Phone": "+91 9876543216",
+    "Address": "2nd Floor, Plot No. 45, Sector-11, Noida"
+  },
+  {
+    "Name": "Ankit Patel",
+    "Age": 31,
+    "Gender": "Male",
+    "Email": "ankit.patel@yahoo.com",
+    "Phone": "+91 9876543217",
+    "Address": "B-14, Lajpat Nagar, New Delhi"
+  },
+  {
+    "Name": "Kritika Sharma",
+    "Age": 28,
+    "Gender": "Female",
+    "Email": "kritika.sharma@gmail.com",
+    "Phone": "+91 9876543218",
+    "Address": "14, Safdarjung Enclave, New Delhi"
+  },
+  {
+    "Name": "Aarav Sharma",
+    "Age": 28,
+    "Gender": "Male",
+    "Email": "aarav.sharma@gmail.com",
+    "Phone": "+91 9876543210",
+    "Address": "B-4/43, Nehru Nagar, New Delhi"
+  },
+  {
+    "Name": "Isha Gupta",
+    "Age": 24,
+    "Gender": "Female",
+    "Email": "isha.gupta@hotmail.com",
+    "Phone": "+91 9988776655",
+    "Address": "106, B Block, Mayur Vihar, Delhi"
+  },
+  {
+    "Name": "Rahul Verma",
+    "Age": 32,
+    "Gender": "Male",
+    "Email": "rahul.verma@yahoo.com",
+    "Phone": "+91 9876543211",
+    "Address": "23/7, Noida Extension, Uttar Pradesh"
+  },
+  {
+    "Name": "Kavya Singh",
+    "Age": 27,
+    "Gender": "Female",
+    "Email": "kavya.singh@gmail.com",
+    "Phone": "+91 9876543212",
+    "Address": "24, Hauz Khas, New Delhi"
+  },
+  {
+    "Name": "Rohit Kumar",
+    "Age": 29,
+    "Gender": "Male",
+    "Email": "rohit.kumar@gmail.com",
+    "Phone": "+91 9876543213",
+    "Address": "C-19, Sector-63, Noida, Uttar Pradesh"
+  },
+  {
+    "Name": "Neha Patel",
+    "Age": 26,
+    "Gender": "Female",
+    "Email": "neha.patel@yahoo.com",
+    "Phone": "+91 9876543214",
+    "Address": "Plot No. 31, Sector-15, Gandhinagar, Gujarat"
+  },
+  {
+    "Name": "Amit Singh",
+    "Age": 35,
+    "Gender": "Male",
+    "Email": "amit.singh@hotmail.com",
+    "Phone": "+91 9876543215",
+    "Address": "C-6, Green Park Extension, New Delhi"
+  },
+  {
+    "Name": "Priya Gupta",
+    "Age": 23,
+    "Gender": "Female",
+    "Email": "priya.gupta@gmail.com",
+    "Phone": "+91 9876543216",
+    "Address": "2nd Floor, Plot No. 45, Sector-11, Noida"
+  },
+  {
+    "Name": "Ankit Patel",
+    "Age": 31,
+    "Gender": "Male",
+    "Email": "ankit.patel@yahoo.com",
+    "Phone": "+91 9876543217",
+    "Address": "B-14, Lajpat Nagar, New Delhi"
+  },
+  {
+    "Name": "Kritika Sharma",
+    "Age": 28,
+    "Gender": "Female",
+    "Email": "kritika.sharma@gmail.com",
+    "Phone": "+91 9876543218",
+    "Address": "14, Safdarjung Enclave, New Delhi"
+  },
+  {
+    "Name": "Aarav Sharma",
+    "Age": 28,
+    "Gender": "Male",
+    "Email": "aarav.sharma@gmail.com",
+    "Phone": "+91 9876543210",
+    "Address": "B-4/43, Nehru Nagar, New Delhi"
+  },
+  {
+    "Name": "Isha Gupta",
+    "Age": 24,
+    "Gender": "Female",
+    "Email": "isha.gupta@hotmail.com",
+    "Phone": "+91 9988776655",
+    "Address": "106, B Block, Mayur Vihar, Delhi"
+  },
+  {
+    "Name": "Rahul Verma",
+    "Age": 32,
+    "Gender": "Male",
+    "Email": "rahul.verma@yahoo.com",
+    "Phone": "+91 9876543211",
+    "Address": "23/7, Noida Extension, Uttar Pradesh"
+  },
+  {
+    "Name": "Kavya Singh",
+    "Age": 27,
+    "Gender": "Female",
+    "Email": "kavya.singh@gmail.com",
+    "Phone": "+91 9876543212",
+    "Address": "24, Hauz Khas, New Delhi"
+  },
+  {
+    "Name": "Rohit Kumar",
+    "Age": 29,
+    "Gender": "Male",
+    "Email": "rohit.kumar@gmail.com",
+    "Phone": "+91 9876543213",
+    "Address": "C-19, Sector-63, Noida, Uttar Pradesh"
+  },
+  {
+    "Name": "Neha Patel",
+    "Age": 26,
+    "Gender": "Female",
+    "Email": "neha.patel@yahoo.com",
+    "Phone": "+91 9876543214",
+    "Address": "Plot No. 31, Sector-15, Gandhinagar, Gujarat"
+  },
+  {
+    "Name": "Amit Singh",
+    "Age": 35,
+    "Gender": "Male",
+    "Email": "amit.singh@hotmail.com",
+    "Phone": "+91 9876543215",
+    "Address": "C-6, Green Park Extension, New Delhi"
+  },
+  {
+    "Name": "Priya Gupta",
+    "Age": 23,
+    "Gender": "Female",
+    "Email": "priya.gupta@gmail.com",
+    "Phone": "+91 9876543216",
+    "Address": "2nd Floor, Plot No. 45, Sector-11, Noida"
+  },
+  {
+    "Name": "Ankit Patel",
+    "Age": 31,
+    "Gender": "Male",
+    "Email": "ankit.patel@yahoo.com",
+    "Phone": "+91 9876543217",
+    "Address": "B-14, Lajpat Nagar, New Delhi"
+  },
+  {
+    "Name": "Kritika Sharma",
+    "Age": 28,
+    "Gender": "Female",
+    "Email": "kritika.sharma@gmail.com",
+    "Phone": "+91 9876543218",
+    "Address": "14, Safdarjung Enclave, New Delhi"
+  },
+
+  {
+    "Name": "Aarav Sharma",
+    "Age": 28,
+    "Gender": "Male",
+    "Email": "aarav.sharma@gmail.com",
+    "Phone": "+91 9876543210",
+    "Address": "B-4/43, Nehru Nagar, New Delhi"
+  },
+  {
+    "Name": "Isha Gupta",
+    "Age": 24,
+    "Gender": "Female",
+    "Email": "isha.gupta@hotmail.com",
+    "Phone": "+91 9988776655",
+    "Address": "106, B Block, Mayur Vihar, Delhi"
+  },
+  {
+    "Name": "Rahul Verma",
+    "Age": 32,
+    "Gender": "Male",
+    "Email": "rahul.verma@yahoo.com",
+    "Phone": "+91 9876543211",
+    "Address": "23/7, Noida Extension, Uttar Pradesh"
+  },
+  {
+    "Name": "Kavya Singh",
+    "Age": 27,
+    "Gender": "Female",
+    "Email": "kavya.singh@gmail.com",
+    "Phone": "+91 9876543212",
+    "Address": "24, Hauz Khas, New Delhi"
+  },
+  {
+    "Name": "Rohit Kumar",
+    "Age": 29,
+    "Gender": "Male",
+    "Email": "rohit.kumar@gmail.com",
+    "Phone": "+91 9876543213",
+    "Address": "C-19, Sector-63, Noida, Uttar Pradesh"
+  },
+  {
+    "Name": "Neha Patel",
+    "Age": 26,
+    "Gender": "Female",
+    "Email": "neha.patel@yahoo.com",
+    "Phone": "+91 9876543214",
+    "Address": "Plot No. 31, Sector-15, Gandhinagar, Gujarat"
+  },
+  {
+    "Name": "Amit Singh",
+    "Age": 35,
+    "Gender": "Male",
+    "Email": "amit.singh@hotmail.com",
+    "Phone": "+91 9876543215",
+    "Address": "C-6, Green Park Extension, New Delhi"
+  },
+  {
+    "Name": "Priya Gupta",
+    "Age": 23,
+    "Gender": "Female",
+    "Email": "priya.gupta@gmail.com",
+    "Phone": "+91 9876543216",
+    "Address": "2nd Floor, Plot No. 45, Sector-11, Noida"
+  },
+  {
+    "Name": "Ankit Patel",
+    "Age": 31,
+    "Gender": "Male",
+    "Email": "ankit.patel@yahoo.com",
+    "Phone": "+91 9876543217",
+    "Address": "B-14, Lajpat Nagar, New Delhi"
+  },
+  {
+    "Name": "Kritika Sharma",
+    "Age": 28,
+    "Gender": "Female",
+    "Email": "kritika.sharma@gmail.com",
+    "Phone": "+91 9876543218",
+    "Address": "14, Safdarjung Enclave, New Delhi"
   }
 ]
